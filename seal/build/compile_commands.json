@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/examples.cpp.o -c /workdir/native/examples/examples.cpp",
+  "file": "/workdir/native/examples/examples.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/examples.cpp.o"
+},
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/1_bfv_basics.cpp.o -c /workdir/native/examples/1_bfv_basics.cpp",
+  "file": "/workdir/native/examples/1_bfv_basics.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/1_bfv_basics.cpp.o"
+},
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/2_encoders.cpp.o -c /workdir/native/examples/2_encoders.cpp",
+  "file": "/workdir/native/examples/2_encoders.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/2_encoders.cpp.o"
+},
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/3_levels.cpp.o -c /workdir/native/examples/3_levels.cpp",
+  "file": "/workdir/native/examples/3_levels.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/3_levels.cpp.o"
+},
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/4_bgv_basics.cpp.o -c /workdir/native/examples/4_bgv_basics.cpp",
+  "file": "/workdir/native/examples/4_bgv_basics.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/4_bgv_basics.cpp.o"
+},
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/5_ckks_basics.cpp.o -c /workdir/native/examples/5_ckks_basics.cpp",
+  "file": "/workdir/native/examples/5_ckks_basics.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/5_ckks_basics.cpp.o"
+},
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/6_rotation.cpp.o -c /workdir/native/examples/6_rotation.cpp",
+  "file": "/workdir/native/examples/6_rotation.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/6_rotation.cpp.o"
+},
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/7_serialization.cpp.o -c /workdir/native/examples/7_serialization.cpp",
+  "file": "/workdir/native/examples/7_serialization.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/7_serialization.cpp.o"
+},
+{
+  "directory": "/workdir/build/native/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++  -I/workdir/native/src -I/workdir/build/native/src -I/workdir/build/thirdparty/msgsl-src/include -O3 -DNDEBUG -fPIE -o CMakeFiles/sealexamples.dir/8_performance.cpp.o -c /workdir/native/examples/8_performance.cpp",
+  "file": "/workdir/native/examples/8_performance.cpp",
+  "output": "native/examples/CMakeFiles/sealexamples.dir/8_performance.cpp.o"
+}
+]
