@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++  -Wall -Werror -DOPENFHE_VERSION=1.4.0 -Wno-parentheses -O3 -DMATHBACKEND=4 -fopenmp -O3 -DNDEBUG "CMakeFiles/eval-flooring.dir/examples/eval-flooring.cpp.o" -o ../../bin/examples/binfhe/eval-flooring  ../../lib/libOPENFHEbinfhe_static.a ../../lib/libOPENFHEcore_static.a -fopenmp -ldl
