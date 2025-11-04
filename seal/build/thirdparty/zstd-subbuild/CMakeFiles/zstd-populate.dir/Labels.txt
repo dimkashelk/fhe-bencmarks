@@ -1,0 +1,14 @@
+# Target labels
+ zstd-populate
+# Source files and their labels
+/workdir/build/thirdparty/zstd-subbuild/CMakeFiles/zstd-populate
+/workdir/build/thirdparty/zstd-subbuild/CMakeFiles/zstd-populate.rule
+/workdir/build/thirdparty/zstd-subbuild/CMakeFiles/zstd-populate-complete.rule
+/workdir/build/thirdparty/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-build.rule
+/workdir/build/thirdparty/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-configure.rule
+/workdir/build/thirdparty/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-download.rule
+/workdir/build/thirdparty/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-install.rule
+/workdir/build/thirdparty/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-mkdir.rule
+/workdir/build/thirdparty/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-patch.rule
+/workdir/build/thirdparty/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-test.rule
+/workdir/build/thirdparty/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-update.rule
