@@ -1,3 +1,0 @@
-/workdir/build/thirdparty/msgsl-subbuild/CMakeFiles/msgsl-populate.dir
-/workdir/build/thirdparty/msgsl-subbuild/CMakeFiles/edit_cache.dir
-/workdir/build/thirdparty/msgsl-subbuild/CMakeFiles/rebuild_cache.dir

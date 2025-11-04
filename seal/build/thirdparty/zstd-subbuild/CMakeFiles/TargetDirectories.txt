@@ -1,3 +1,0 @@
-/workdir/build/thirdparty/zstd-subbuild/CMakeFiles/zstd-populate.dir
-/workdir/build/thirdparty/zstd-subbuild/CMakeFiles/edit_cache.dir
-/workdir/build/thirdparty/zstd-subbuild/CMakeFiles/rebuild_cache.dir

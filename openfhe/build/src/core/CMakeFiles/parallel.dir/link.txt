@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++  -Wall -Werror -DOPENFHE_VERSION=1.4.0 -Wno-parentheses -O3 -DMATHBACKEND=4 -fopenmp -O3 -DNDEBUG CMakeFiles/parallel.dir/examples/parallel.cpp.o -o ../../bin/examples/core/parallel  -Wl,-rpath,/workdir/build/lib ../../lib/libOPENFHEcore.so.1.4.0 -fopenmp -ldl
