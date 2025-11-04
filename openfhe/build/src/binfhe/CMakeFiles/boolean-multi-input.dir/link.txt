@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++  -Wall -Werror -DOPENFHE_VERSION=1.4.0 -Wno-parentheses -O3 -DMATHBACKEND=4 -fopenmp -O3 -DNDEBUG "CMakeFiles/boolean-multi-input.dir/examples/boolean-multi-input.cpp.o" -o ../../bin/examples/binfhe/boolean-multi-input  -Wl,-rpath,/workdir/build/lib ../../lib/libOPENFHEbinfhe.so.1.4.0 ../../lib/libOPENFHEcore.so.1.4.0 -fopenmp -ldl
